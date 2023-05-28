@@ -27,7 +27,6 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 - An Optimum Character Recognition System Using Decision Functions (**IRE Transactions on Electronic Computers** 1957) [[paper]](https://gwern.net/doc/ai/highleyman/1957-chow.pdf)
 
 
- (**ICLR** 2023) [[paper]]() [[code]]()
 ## OOD Detection
 ### 2023
 - Decoupling MaxLogit for Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Decoupling_MaxLogit_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
@@ -40,5 +39,38 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 - GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GEN_Pushing_the_Limits_of_Softmax-Based_Out-of-Distribution_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/XixiLiu95/GEN)
 - Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability (**ICML** 2023) [[code]](https://github.com/ZFancy/Unleashing-Mask)
 - Detecting Out-of-distribution Data through In-distribution Class Prior (**ICML** 2023)
-- Packed-Ensembles for Efficient Uncertainty Estimation [[paper]](https://openreview.net/pdf?id=XXTyv1zD9zD) [[code]](https://github.com/ENSTA-U2IS/torch-uncertainty)
-- 
+- Packed-Ensembles for Efficient Uncertainty Estimation (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=XXTyv1zD9zD) [[code]](https://github.com/ENSTA-U2IS/torch-uncertainty)
+- A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=Iuubb9W6Jtk) [[code]](https://github.com/mdabbah/COOD_benchmarking)
+- Out-of-Distribution Detection based on In-Distribution Data Patterns Memorization with Modern Hopfield Energy (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=KkazG4lgKL) [[code]](https://github.com/zjs975584714/SHE_ood_detection)
+- Extremely Simple Activation Shaping for Out-of-Distribution Detection (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=ndYXTEL6cZz) [[code]](https://andrijazz.github.io/ash/)
+- The Tilted Variational Autoencoder: Improving Out-of-Distribution Detection (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=YlGsTZODyjz) 
+- Out-of-distribution Detection with Implicit Outlier Transformation (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=hdghx6wbGuD) [[code]](https://github.com/QizhouWang/DOE)
+- Energy-based Out-of-Distribution Detection for Graph Neural Networks (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=zoz7Ze4STUL) [[code]](https://github.com/qitianwu/GraphOOD-GNNSafe)
+- How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection? (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=aEFaE0W5pAd) [[code]](https://github.com/deeplearning-wisc/cider) 
+- Harnessing Out-Of-Distribution Examples via Augmenting Content and Style (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=boNyg20-JDm)
+- Fake It Until You Make It : Towards Accurate Near-Distribution Novelty Detection (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=QWQM0ZwZdRS) [[code]](https://github.com/rohban-lab/FITYMI)
+- Non-parametric Outlier Synthesis (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=JHklpEZqduQ) [[code]](https://github.com/deeplearning-wisc/npos)
+- Out-of-Distribution Detection and Selective Generation for Conditional Language Models (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=kJUS5nD0vPB)
+- Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=mMNimwRb7Gr) [[code]](https://github.com/illidanlab/FOSTER)
+- Out-of-Distribution Detection via Conditional Kernel Independence Model (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=rTTh1RIn6E) [[code]](https://github.com/OODHSIC/conditional-i)
+- Your Out-of-Distribution Detection Method is Not Robust! (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=YUEP3ZmkL1) [[code]](https://github.com/rohban-lab/ATD)
+- Boosting Out-of-distribution Detection with Typical Features (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=4maAiUt0A4) [[code]](https://github.com/alibaba/easyrobust)
+- RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=-deKNiSOXLG)
+- Provably Adversarially Robust Detection of Out-of-Distribution Data (Almost) for Free (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=9ZWgrozGP0) [[code]](https://github.com/AlexMeinke/Provable-OOD-Detection)
+- Watermarking for Out-of-distribution Detection (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=6rhl2k1SUGs) [[code]](https://github.com/QizhouWang/watermarking) 
+- Is Out-of-Distribution Detection Learnable? (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=sde_7ZzGXOE)
+- RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=5j6fWcPccO) [[code]](https://github.com/FrancescoPinto/RegMixup)
+- Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=vMQ1V_z0TxU)
+- GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=mSiPuHIP7t8) [[code]](https://github.com/Emiyalzn/GraphDE)
+- Density-driven Regularization for Out-of-distribution Detection (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=aZQJMVx8fk)
+- Delving into Out-of-Distribution Detection with Vision-Language Representations (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=KnCS9390Va) [[code]](https://github.com/deeplearning-wisc/MCM)
+- Beyond Mahalanobis Distance for Textual OOD Detection (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=ReB7CCByD6U)
+- SIREN: Shaping Representations for Detecting Out-of-Distribution Objects (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=8E8tgnYlmN) [[code]](https://github.com/deeplearning-wisc/siren)
+
+
+
+
+ (**NeurIPS** 2023) [[paper]]() [[code]]()
+
+
+

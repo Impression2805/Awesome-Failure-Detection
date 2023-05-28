@@ -99,25 +99,18 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 - Entropy Maximization and Meta Classification for Out-of-Distribution Detection in Semantic Segmentation (**ICCV** 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chan_Entropy_Maximization_and_Meta_Classification_for_Out-of-Distribution_Detection_in_Semantic_ICCV_2021_paper.pdf)
 - Semantically Coherent Out-of-Distribution Detection (**ICCV** 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Semantically_Coherent_Out-of-Distribution_Detection_ICCV_2021_paper.pdf) [[code]](https://jingkang50.github.io/projects/scood)
 - Triggering Failures: Out-of-Distribution Detection by Learning From Local Adversarial Attacks in Semantic Segmentation (**ICCV** 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Besnier_Triggering_Failures_Out-of-Distribution_Detection_by_Learning_From_Local_Adversarial_Attacks_ICCV_2021_paper.pdf) [[code]](https://github.com/valeoai/obsnet)
-- MOOD: Multi-Level Out-of-Distribution Detection (**CVPR** 2021) [[paper]]() [[code]]()
-- MOS: Towards Scaling Out-of-Distribution Detection for Large Semantic Space (**CVPR** 2021) [[paper]]() [[code]]()
-- Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces (**CVPR** 2021) [[paper]]() [[code]]()
+- MOOD: Multi-Level Out-of-Distribution Detection (**CVPR** 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_MOOD_Multi-Level_Out-of-Distribution_Detection_CVPR_2021_paper.pdf)
+- MOS: Towards Scaling Out-of-Distribution Detection for Large Semantic Space (**CVPR** 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_MOS_Towards_Scaling_Out-of-Distribution_Detection_for_Large_Semantic_Space_CVPR_2021_paper.pdf)
+- Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces (**CVPR** 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf) [[code]](https://github.com/zaeemzadeh/OOD)
+- Multiscale Score Matching for Out-of-Distribution Detection (**ICLR** 2021) [[paper]](https://openreview.net/pdf?id=xoHdgbQJohv) [[code]](https://github.com/ahsanMah/msma)
 
-
-
-
-
-
-
-
-
-
-
- (**ICML** 2021) [[paper]]() [[code]]()
- (**NeurIPS** 2021) [[paper]]() [[code]]()
- (**ICLR** 2021) [[paper]]() [[code]]()
- (**ICCV** 2021) [[paper]]() [[code]]()
- (**CVPR** 2021) [[paper]]() [[code]]()
-
-
-
+### Early Works
+- Energy-based Out-of-distribution Detection (**NeurIPS** 2020) [[paper]](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf) [[code]](https://github.com/wetliu/energy_ood)
+- Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem (**CVPR** 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hein_Why_ReLU_Networks_Yield_High-Confidence_Predictions_Far_Away_From_the_CVPR_2019_paper.pdf)
+- Deep Anomaly Detection with Outlier Exposure (**ICLR** 2019) [[paper]](https://arxiv.org/pdf/1812.04606.pdf) [[code]](https://github.com/hendrycks/outlier-exposure)
+- A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (**NeurIPS** 2018) [[paper]](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf) [[code]](https://github.com/pokaxpoka/deep_Mahalanobis_detector)
+- Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks (**ICLR** 2018) [[paper]](https://arxiv.org/pdf/1706.02690.pdf)
+- Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples (**ICLR** 2018) [[paper]](https://openreview.net/pdf?id=ryiAv2xAZ) [[code]](https://github.com/alinlab/Confident_classifier)
+- Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles (**NeurIPS** 2018) [[paper]](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
+- Predictive Uncertainty Estimation via Prior Networks (**NeurIPS** 2018) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2018/file/3ea2db50e62ceefceaf70a9d9a56a6f4-Paper.pdf) [[code]](https://github.com/KaosEngineer/PriorNetworks)
+- A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks (**ICLR** 2017) [[paper]](https://arxiv.org/pdf/1610.02136.pdf)

@@ -23,5 +23,16 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 - An Optimum Character Recognition System Using Decision Functions (**IRE Transactions on Electronic Computers** 1957) [[paper]](https://gwern.net/doc/ai/highleyman/1957-chow.pdf)
 
 
+ (**ICML** 2023) [[paper]]() [[code]]()
 ## OOD Detection
 ### 2023
+- Decoupling MaxLogit for Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Decoupling_MaxLogit_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
+- Block Selection Method for Using Feature Norm in Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2212.02295.pdf) [[code]](https://github.com/gist-ailab/block-selection-for-OOD-detection)
+- LINe: Out-of-Distribution Detection by Leveraging Important Neurons (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2303.13995.pdf) [[code]](https://github.com/YongHyun-Ahn/LINe-Out-of-Distribution-Detection-by-Leveraging-Important-Neurons)
+- Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Uncertainty-Aware_Optimal_Transport_for_Semantically_Coherent_Out-of-Distribution_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/LuFan31/ET-OOD)
+- Rethinking Out-of-Distribution (OOD) Detection: Masked Image Modeling Is All You Need  (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2302.02615.pdf) [[code]](https://github.com/JulietLJY/MOOD)
+- Balanced Energy Regularization Loss for Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Energy_Regularization_Loss_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
+- Detection of Out-of-Distribution Samples Using Binary Neuron Activation Patterns (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Olber_Detection_of_Out-of-Distribution_Samples_Using_Binary_Neuron_Activation_Patterns_CVPR_2023_paper.pdf) [[code]](https://github.com/safednn-group/nap-ood)
+- GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GEN_Pushing_the_Limits_of_Softmax-Based_Out-of-Distribution_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/XixiLiu95/GEN)
+- Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability (**ICML** 2023) [[code]](https://github.com/ZFancy/Unleashing-Mask)
+- Detecting Out-of-distribution Data through In-distribution Class Prior (**ICML** 2023)

@@ -1,5 +1,27 @@
-# Awesome Failure Detection / Reliable Prediction / Confidence Estimation
+# Awesome Failure Detection / Reliable Prediction
 
 Failure Detection is a machine learning problem, which aims detecting out-of-distribution (OOD) and misclassified samples based on reliable confidence estimation. This topic is important for risk-sensitive applications (e.g., autonomous driving, clinical decision making, and is gathering much attention in the research community.
 
-Here, we provide a list of papers that studies OOD detection and misclassification detection (MisD)
+Here, we provide a list of papers that studies OOD detection and misclassification detection (MisD).
+
+## Misclassification Detection / Selective Classification / Failure Prediction
+- OpenMix: Exploring Outlier Samples for Misclassification Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_OpenMix_Exploring_Outlier_Samples_for_Misclassification_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/Impression2805/OpenMix)
+- Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective (**ICRA** 2023) [[paper]](https://arxiv.org/ftp/arxiv/papers/2301/2301.04421.pdf)
+- What can we learn from the selective prediction and uncertainty estimation performance of 523 imagenet classifiers (**ICLR** 2023) [[paper]](https://arxiv.org/pdf/2302.11874.pdf) [[code]](https://github.com/IdoGalil/benchmarking-uncertainty-estimation-performance)
+- AUC-based Selective Classification (**AISTATS** 2023) [[paper]](https://proceedings.mlr.press/v206/pugnana23a/pugnana23a.pdf)
+- Failure Detection in Medical Image Classification: A Reality Check and Benchmarking Testbed (**TMLR** 2022) [[paper]](https://openreview.net/pdf?id=VBHuLfnOMf) [[code]](https://github.com/melanibe/failure_detection_benchmark)
+- Rethinking Confidence Calibration for Failure Prediction (**ECCV** 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850512.pdf) [[code]](https://github.com/Impression2805/FMFP)
+- Improving the Reliability for Confidence Estimation (**ECCV** 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870385.pdf)
+- Trust, but Verify: Using Self-Supervised Probing to Improve Trustworthiness (**ECCV** 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730362.pdf)
+- Confidence Estimation via Auxiliary Models (**TPAMI** 2021) [[paper]](https://arxiv.org/pdf/2012.06508.pdf) [[code]](https://github.com/valeoai/ConfidNet)
+- Learning to predict trustworthiness with steep slope loss (**NeurIPS** 2021) [[paper]](https://arxiv.org/pdf/2110.00054.pdf) [[code]](https://github.com/luoyan407/predict_trustworthiness)
+- Confidence-Aware Learning for Deep Neural Networks (**ICML** 2020) [[paper]](http://proceedings.mlr.press/v119/moon20a/moon20a.pdf) [[code]](https://github.com/daintlab/confidence-aware-learning)
+- Selectivenet: A deep neural network with an integrated reject option (**ICML** 2019) [[paper]](http://proceedings.mlr.press/v97/geifman19a/geifman19a.pdf)
+- To Trust Or Not To Trust A Classifier (**NeurIPS** 2018) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2018/file/7180cffd6a8e829dacfc2a31b3f72ece-Paper.pdf) [[code]](https://github.com/google/TrustScore)
+- Selective classification for deep neural networks (**NeurIPS** 2017) [[paper]](https://proceedings.neurips.cc/paper/2017/file/4a8423d5e91fda00bb7e46540e2b0cf1-Paper.pdf)
+- A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks (**ICLR** 2017) [[paper]](https://arxiv.org/pdf/1610.02136.pdf)
+- An Optimum Character Recognition System Using Decision Functions (**IRE Transactions on Electronic Computers** 1957) [[paper]](https://gwern.net/doc/ai/highleyman/1957-chow.pdf)
+
+
+## OOD Detection
+### 2023

@@ -29,6 +29,7 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 
 ## OOD Detection
 ### 2023
+- Average of Pruning: Improving Performance and Stability of Out-of-Distribution Detection (**Arxiv** 2023) [[paper]](https://arxiv.org/pdf/2303.01201.pdf)
 - Decoupling MaxLogit for Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Decoupling_MaxLogit_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
 - Block Selection Method for Using Feature Norm in Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2212.02295.pdf) [[code]](https://github.com/gist-ailab/block-selection-for-OOD-detection)
 - LINe: Out-of-Distribution Detection by Leveraging Important Neurons (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2303.13995.pdf) [[code]](https://github.com/YongHyun-Ahn/LINe-Out-of-Distribution-Detection-by-Leveraging-Important-Neurons)

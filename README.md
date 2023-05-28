@@ -54,6 +54,13 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 - Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=mMNimwRb7Gr) [[code]](https://github.com/illidanlab/FOSTER)
 
 ### 2022
+- Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities (**ICML** 2022) [[paper]](https://proceedings.mlr.press/v162/bitterwolf22a/bitterwolf22a.pdf) [[code]](https://github.com/j-cb/Breaking_Down_OOD_Detection)
+- POEM: Out-of-Distribution Detection with Posterior Sampling (**ICML** 2022) [[paper]](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf) [[code]](https://github.com/deeplearning-wisc/poem)
+- Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition (**ICML** 2022) [[paper]](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf) [[code]](https://github.com/amazon-science/long-tailed-ood-detection)
+- Scaling Out-of-Distribution Detection for Real-World Settings (**ICML** 2022) [[paper]](https://proceedings.mlr.press/v162/hendrycks22a/hendrycks22a.pdf) [[code]](https://github.com/hendrycks/anomaly-seg)
+- Mitigating Neural Network Overconfidence with Logit Normalization (**ICML** 2022) [[paper]](https://arxiv.org/pdf/2205.09310.pdf) [[code]](https://github.com/hongxin001/logitnorm_ood)
+- Out-of-Distribution Detection with Deep Nearest Neighbors (**ICML** 2022) [[paper]](https://proceedings.mlr.press/v162/sun22d/sun22d.pdf) [[code]](https://github.com/deeplearning-wisc/knn-ood)
+- Training OOD Detectors in their Natural Habitats (**ICML** 2022) [[paper]](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf) [[code]](https://github.com/jkatzsam/woods_ood)
 - Out-of-Distribution Detection via Conditional Kernel Independence Model (**NeurIPS** 2022) [[paper]](https://openreview.net/pdf?id=rTTh1RIn6E) [[code]](https://github.com/OODHSIC/conditional-i)
 - Your Out-of-Distribution Detection Method is Not Robust! (**NeurIPS** 2022) [[paper]](https://openreview.net/pdf?id=YUEP3ZmkL1) [[code]](https://github.com/rohban-lab/ATD)
 - Boosting Out-of-distribution Detection with Typical Features (**NeurIPS** 2022) [[paper]](https://openreview.net/pdf?id=4maAiUt0A4) [[code]](https://github.com/alibaba/easyrobust)
@@ -68,11 +75,49 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 - Delving into Out-of-Distribution Detection with Vision-Language Representations (**NeurIPS** 2022) [[paper]](https://openreview.net/pdf?id=KnCS9390Va) [[code]](https://github.com/deeplearning-wisc/MCM)
 - Beyond Mahalanobis Distance for Textual OOD Detection (**NeurIPS** 2022) [[paper]](https://openreview.net/pdf?id=ReB7CCByD6U)
 - SIREN: Shaping Representations for Detecting Out-of-Distribution Objects (**NeurIPS** 2022) [[paper]](https://openreview.net/pdf?id=8E8tgnYlmN) [[code]](https://github.com/deeplearning-wisc/siren)
+- Out-of-distribution Detection with Boundary Aware Learning (**ECCV** 2022) [[paper]](https://arxiv.org/pdf/2112.11648.pdf)
+- Out-of-Distribution Detection with Semantic Mismatch under Masking (**ECCV** 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840369.pdf) [[code]](https://github.com/cure-lab/MOODCat)
+- Data Invariants to Understand Unsupervised Out-of-Distribution Detection (**ECCV** 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910129.pdf)
+- Out-of-Distribution Identification: Let Detector Tell Which I Am Not Sure (**ECCV** 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700631.pdf)
+- Deep Hybrid Models for Out-of-Distribution Detection (**CVPR** 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Deep_Hybrid_Models_for_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)
+- Rethinking Reconstruction Autoencoder-Based Out-of-Distribution Detection (**CVPR** 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Rethinking_Reconstruction_Autoencoder-Based_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)
+- ViM: Out-of-Distribution With Virtual-Logit Matching (**CVPR** 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ViM_Out-of-Distribution_With_Virtual-Logit_Matching_CVPR_2022_paper.pdf) [[code]](https://github.com/haoqiwang/vim)
+- Neural Mean Discrepancy for Efficient Out-of-Distribution Detection (**CVPR** 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Neural_Mean_Discrepancy_for_Efficient_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)
+- Unknown-Aware Object Detection: Learning What You Don’t Know from Videos in the Wild (**CVPR** 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Du_Unknown-Aware_Object_Detection_Learning_What_You_Dont_Know_From_Videos_CVPR_2022_paper.pdf) [[code]](https://github.com/deeplearning-wisc/stud)
+- Revisiting flow generative models for Out-of-distribution detection (**ICLR** 2022) [[paper]](https://openreview.net/pdf?id=6y2KBh-0Fd9)
+- Igeood: An Information Geometry Approach to Out-of-Distribution Detection (**ICLR** 2022) [[paper]](https://openreview.net/pdf?id=mfwdY3U_9ea)
+- A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks (**ICLR** 2022) [[paper]](https://openreview.net/pdf?id=Oy9WeuZD51)
+- VOS: Learning What You Don't Know by Virtual Outlier Synthesis (**ICLR** 2022) [[paper]](https://openreview.net/pdf?id=TW7d65uYu5M) [[code]](https://github.com/deeplearning-wisc/vos)
+
+### 2021
+- Understanding Failures in Out-of-Distribution Detection with Deep Generative Models (**ICML** 2021) [[paper]](http://proceedings.mlr.press/v139/zhang21g/zhang21g.pdf)
+- Exploring the Limits of Out-of-Distribution Detection (**NeurIPS** 2021) [[paper]](https://openreview.net/pdf?id=j5NrN8ffXC)
+- STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data (**NeurIPS** 2021) [[paper]](https://openreview.net/pdf?id=p9dySshcS0q)
+- Locally Most Powerful Bayesian Test for Out-of-Distribution Detection Using Deep Generative Models (**NeurIPS** 2021) [[paper]](https://openreview.net/pdf?id=-nLW4nhdkO)
+- Single Layer Predictive Normalized Maximum Likelihood for Out-of-Distribution Detection (**NeurIPS** 2021) [[paper]](https://openreview.net/pdf?id=ympqhd5gE9)
+- ReAct: Out-of-distribution Detection With Rectified Activations (**NeurIPS** 2021) [[paper]](https://openreview.net/pdf?id=IBVBtz_sRSm) [[code]](https://github.com/deeplearning-wisc/react)
+- Entropy Maximization and Meta Classification for Out-of-Distribution Detection in Semantic Segmentation (**ICCV** 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chan_Entropy_Maximization_and_Meta_Classification_for_Out-of-Distribution_Detection_in_Semantic_ICCV_2021_paper.pdf)
+- Semantically Coherent Out-of-Distribution Detection (**ICCV** 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Semantically_Coherent_Out-of-Distribution_Detection_ICCV_2021_paper.pdf) [[code]](https://jingkang50.github.io/projects/scood)
+- Triggering Failures: Out-of-Distribution Detection by Learning From Local Adversarial Attacks in Semantic Segmentation (**ICCV** 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Besnier_Triggering_Failures_Out-of-Distribution_Detection_by_Learning_From_Local_Adversarial_Attacks_ICCV_2021_paper.pdf) [[code]](https://github.com/valeoai/obsnet)
+- MOOD: Multi-Level Out-of-Distribution Detection (**CVPR** 2021) [[paper]]() [[code]]()
+- MOS: Towards Scaling Out-of-Distribution Detection for Large Semantic Space (**CVPR** 2021) [[paper]]() [[code]]()
+- Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces (**CVPR** 2021) [[paper]]() [[code]]()
 
 
 
 
- (**NeurIPS** 2023) [[paper]]() [[code]]()
+
+
+
+
+
+
+
+ (**ICML** 2021) [[paper]]() [[code]]()
+ (**NeurIPS** 2021) [[paper]]() [[code]]()
+ (**ICLR** 2021) [[paper]]() [[code]]()
+ (**ICCV** 2021) [[paper]]() [[code]]()
+ (**CVPR** 2021) [[paper]]() [[code]]()
 
 
 

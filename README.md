@@ -105,13 +105,10 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 - Multiscale Score Matching for Out-of-Distribution Detection (**ICLR** 2021) [[paper]](https://openreview.net/pdf?id=xoHdgbQJohv) [[code]](https://github.com/ahsanMah/msma)
 - SSD: A Unified Framework for Self-Supervised Outlier Detection (**ICLR** 2021) [[paper]](https://openreview.net/pdf?id=v5gjXpmR8J) [[code]](https://github.com/inspire-group/SSD)
 
-### 2020
+### Early Works
 - Energy-based Out-of-distribution Detection (**NeurIPS** 2020) [[paper]](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf) [[code]](https://github.com/wetliu/energy_ood)
 - CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (**NeurIPS** 2020) [[paper]](https://proceedings.neurips.cc/paper/2020/file/8965f76632d7672e7d3cf29c87ecaa0c-Paper.pdf) [[code]](https://github.com/alinlab/CSI)
 - Why Normalizing Flows Fail to Detect Out-of-Distribution Data (**NeurIPS** 2020) [[paper]](https://arxiv.org/pdf/2006.08545.pdf) [[code]](https://github.com/PolinaKirichenko/flows_ood)
-
-
-### Early Works
 - Likelihood Ratios for Out-of-Distribution Detection (**NeurIPS** 2019) [[paper]](https://openreview.net/pdf?id=BJfkTHHl8S)
 - Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem (**CVPR** 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hein_Why_ReLU_Networks_Yield_High-Confidence_Predictions_Far_Away_From_the_CVPR_2019_paper.pdf)
 - Deep Anomaly Detection with Outlier Exposure (**ICLR** 2019) [[paper]](https://arxiv.org/pdf/1812.04606.pdf) [[code]](https://github.com/hendrycks/outlier-exposure)

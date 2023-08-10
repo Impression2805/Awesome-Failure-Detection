@@ -30,6 +30,12 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 ## OOD Detection
 ### 2023
 - Average of Pruning: Improving Performance and Stability of Out-of-Distribution Detection (**Arxiv** 2023) [[paper]](https://arxiv.org/pdf/2303.01201.pdf)
+- Unsupervised Out-of-Distribution Detection with Diffusion Inpainting (**ICML** 2023) [[paper]](https://arxiv.org/pdf/2302.10326.pdf)
+- Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection (**ICML** 2023) [[paper]](https://arxiv.org/pdf/2306.09158.pdf) [[code]](https://github.com/deeplearning-wisc/scone)
+- In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation (**ICML** 2023) [[paper]](https://arxiv.org/pdf/2306.00826.pdf) [[code]](https://github.com/j-cb/NINCO)
+- Hybrid Energy Based Model in the Feature Space for Out-of-Distribution Detection (**ICML** 2023) [[paper]](https://arxiv.org/pdf/2305.16966.pdf) [[code]](https://github.com/MarcLafon/heatood)
+- Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability (**ICML** 2023) [[paper]](https://arxiv.org/pdf/2306.03715.pdf) [[code]](https://github.com/ZFancy/Unleashing-Mask)
+- Detecting Out-of-distribution Data through In-distribution Class Prior (**ICML** 2023)
 - Decoupling MaxLogit for Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Decoupling_MaxLogit_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
 - Block Selection Method for Using Feature Norm in Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2212.02295.pdf) [[code]](https://github.com/gist-ailab/block-selection-for-OOD-detection)
 - LINe: Out-of-Distribution Detection by Leveraging Important Neurons (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2303.13995.pdf) [[code]](https://github.com/YongHyun-Ahn/LINe-Out-of-Distribution-Detection-by-Leveraging-Important-Neurons)
@@ -39,8 +45,6 @@ Here, we provide a list of papers that studies OOD detection and misclassificati
 - Detection of Out-of-Distribution Samples Using Binary Neuron Activation Patterns (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Olber_Detection_of_Out-of-Distribution_Samples_Using_Binary_Neuron_Activation_Patterns_CVPR_2023_paper.pdf) [[code]](https://github.com/safednn-group/nap-ood)
 - GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GEN_Pushing_the_Limits_of_Softmax-Based_Out-of-Distribution_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/XixiLiu95/GEN)
 - OpenMix: Exploring Outlier Samples for Misclassification Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_OpenMix_Exploring_Outlier_Samples_for_Misclassification_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/Impression2805/OpenMix)
-- Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability (**ICML** 2023) [[code]](https://github.com/ZFancy/Unleashing-Mask)
-- Detecting Out-of-distribution Data through In-distribution Class Prior (**ICML** 2023)
 - Packed-Ensembles for Efficient Uncertainty Estimation (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=XXTyv1zD9zD) [[code]](https://github.com/ENSTA-U2IS/torch-uncertainty)
 - A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=Iuubb9W6Jtk) [[code]](https://github.com/mdabbah/COOD_benchmarking)
 - Out-of-Distribution Detection based on In-Distribution Data Patterns Memorization with Modern Hopfield Energy (**ICLR** 2023) [[paper]](https://openreview.net/pdf?id=KkazG4lgKL) [[code]](https://github.com/zjs975584714/SHE_ood_detection)
